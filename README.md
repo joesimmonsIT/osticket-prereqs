@@ -19,12 +19,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- IIS
-- PHP
-- VC Redistribution
-- MySQL Server
-- OsTicket Install
-- Heide SQL
+- Resource Group
+- Virtual Machine
+- Remote Desktop
+- Enable ISS
+- Test Web Services
+- Rewrite Module
+- PHP Directory
+- PHP Dowload
+- PHP Extraction
+- VC Redistribution Download
+- MySQL Server Installation
+- PHP Registration with IIS
+- OsTicket Installation
+- Heide SQL Installation
+  
 
 <h2>Installation Steps</h2>
 
