@@ -89,7 +89,8 @@ Select "Create" to proceed with the creation of the resource group. <br /> <br /
 <img src="https://i.imgur.com/WWCBzRP.png"/>
 </p>
 <p>
-The creation of the Resource Group "RGosTicket" has been completed and new additional resources can be created and added to the resource group.
+The creation of the Resource Group "RGosTicket" has been completed and new additional resources can be created <br />
+and added to the resource group.
 </p>
 <br />
 
