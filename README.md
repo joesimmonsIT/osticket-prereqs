@@ -69,7 +69,7 @@ Select "Create" in the middle of the page.
 </p>
 <p>
 Subscription: Select the desired subscription, if you have more than one Azure subscription. <br /> <br />
-If you only have one subscription skip this stpe and move on to the next step. <br /> <br />
+If you only have one subscription skip this step and move on to the next step. <br /> <br />
 Resource group: Select the desired name of the resource group, for this tutortial we will be using "RGosTicket". <br /> <br />
 Region: Select the desired Region, for this tutortial we will be using (US) East US. <br /> <br />
 Select "Review + create" to proceed with creating the resource group. <br /> <br />
