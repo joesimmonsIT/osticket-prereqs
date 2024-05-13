@@ -184,7 +184,11 @@ The deployment (creation) of the virtual machine is completed.
 <img src="https://i.imgur.com/wjZwQyw.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the Portal: Portal.Azure.com. <br /> <br />
+Type "Virtual Machines" in the search box. <br /> <br />
+Select "Virtual machines" from the search results. <br /> <br />
+Select "VM-osticket". <br /> <br />
+Copy Public IP Address. <br /> <br />
 </p>
 <br />
 
