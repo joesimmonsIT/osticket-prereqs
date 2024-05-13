@@ -68,7 +68,11 @@ Select "Create" in the middle of the page.
 <img src="https://i.imgur.com/VSA6Bjl.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Subscription: Select the desired subscription, if you have more than one Azure subscription. <br /> <br />
+If you only have one subscription skip this stpe and move on to the next step. <br /> <br />
+Resource group: Select the desired name of the resource group, for this tutortial we will be using "RGosTicket". <br /> <br />
+Region: Select the desired Region, for this tutortial we will be using (US) East US. <br /> <br />
+Select "Review + create" to proceed with creating the resource group. <br /> <br />
 </p>
 <br />
 
