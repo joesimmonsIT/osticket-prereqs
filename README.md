@@ -149,7 +149,8 @@ Confirm Password: Repeat the same password you recently created. <br /> <br />
 <img src="https://i.imgur.com/lRRIR7d.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Acknowledge the Licensing Confirmation, a blue box with a white check mark should appear. <br /> <br />
+Select "Review + create" to proceed with creating the virtual machine. <br /> <br />
 </p>
 <br />
 
