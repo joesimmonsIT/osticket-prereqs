@@ -121,8 +121,8 @@ Subscription: Select desired subscription if you have more than one Azure subscr
 If you only have one subscription skip this step and move on to the next step. <br /> <br />
 Resource group: Select desired resource group, for this tutorial we will be using "RGosTicket". <br /> <br />
 Virtual machine name: Select desired virtual machine name, for this tutorial we will be using "VM-osticket". <br /> <br />
-Region: Select desired region, for this tutortial we will be using (US) East US. <br /> <br />
-Availability Zone: Select the desired zone, for this tutorial we will be using Zone 2. <br /> <br />
+Region: Select desired region, for this tutortial we will be using "(US) East US". <br /> <br />
+Availability Zone: Select the desired zone, for this tutorial we will be using "Zone 2". <br /> <br />
 </p>
 <br />
 
