@@ -745,7 +745,7 @@ Select "VM-osticket".
 </p>
 <p>
 Go to Actions on the right. <br /> <br />
-Under Manager Server select "Restart". <br /> <br />
+Under Manage Server select "Restart". <br /> <br />
 This will enable the recent PHP Manage updates we just completed. <br /> <br />
 </p>
 <br />
