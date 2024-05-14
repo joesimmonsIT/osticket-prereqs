@@ -806,7 +806,7 @@ Copy Files Transfer in progress.
 <img src="https://i.imgur.com/9YD8WWW.png"/>
 </p>
 <p>
-Right Click folder and rename "osticket".
+Right Click folder and Rename "osticket".
 </p>
 <br />
 
