@@ -305,7 +305,8 @@ Internet Information Services image will appear this means it is ready for the p
 <img src="https://i.imgur.com/uOPX3YU.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the PHP Manager Link. <br /> <br />
+Select "Download". <br /> <br />
 </p>
 <br />
 
