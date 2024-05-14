@@ -247,7 +247,9 @@ Check the box for "Internet Information Services".
 <img src="https://i.imgur.com/Xkf8b4i.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Collapse Internet Information Services. <br /> <br />
+Check box for World Wide Web Services. <br /> <br />
+Collapse World Wide Web Services. <br /> <br />
 </p>
 <br />
 
