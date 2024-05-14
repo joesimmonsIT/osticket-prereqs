@@ -897,8 +897,8 @@ Select "ost-sampleconfig.php". <br /> <br />
 <img src="https://i.imgur.com/LhiPhz4.png"/>
 </p>
 <p>
-Right Click.
-Rename: remove "sample" from the name.
+Right Click. <br /> <br />
+Rename: remove "sample" from the name. <br /> <br />
 </p>
 <br />
 
