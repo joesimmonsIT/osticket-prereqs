@@ -529,6 +529,7 @@ Proceed with "Download anyway".
 <p>
 Go to "File Explorer". <br /> <br />
 Select "Downloads". <br /> <br />
+Select "VC_redist.x86". <br /> <br /> 
 </p>
 <br />
 
