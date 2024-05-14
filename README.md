@@ -1110,14 +1110,16 @@ Select "Open". <br /> <br />
 <img src="https://i.imgur.com/fY0geBb.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Return to Heidi Session Dashboard.
 </p>
 <br />
 
 <img src="https://i.imgur.com/QUMOJyB.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Right Click "Unamed". <br /> <br />
+"Create New". <br /> <br />
+"Database". <br /> <br />
 </p>
 <br />
 
