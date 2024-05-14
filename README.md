@@ -1022,20 +1022,22 @@ Retype Password: Repeat the previous password entered. <br /> <br />
 <img src="https://i.imgur.com/2N2eVxe.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click link to Download HeidiSQL.
 </p>
 <br />
 
 <img src="https://i.imgur.com/8xmuK0j.png"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+HeidiSQL Download is complete.
 </p>
 <br />
 
 <img src="https://i.imgur.com/ygBAJCr.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to File Explorer. <br /> <br />
+Select "Downloads". <br /> <br />
+Select "HeidiSQL....". <br /> <br />
 </p>
 <br />
 
