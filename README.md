@@ -771,8 +771,8 @@ Select "Download anyway".
 <img src="https://i.imgur.com/HG5LHyv.png"/>
 </p>
 <p>
-Go to File Explorer.
-Select "Downloads".
+Go to File Explorer. <br /> <br />
+Select "Downloads". <br /> <br />
 </p>
 <br />
 
