@@ -448,18 +448,11 @@ Select "php-7.3.8." and Click Download.
 <br />
 
 <p>
-<img src="https://i.imgur.com/qxq3ik1.png"/>
-</p>
-<p>
-Select "Open file".
-</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/yhHSZZQ.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to File Explorer.
+Select "Downloads".
 </p>
 <br />
 
