@@ -1176,7 +1176,7 @@ Click "Log In". <br /> <br />
 <img src="https://i.imgur.com/muOxrIQ.png"/>
 </p>
 <p>
-Your should see your name in the right hand corner, if so you have successfully logged into osTicket. <br /> <br />
+Your should see your name "Welcome, Joe" in the top right hand corner, if so you have successfully logged into osTicket. <br /> <br />
 Congratulations, you have completed this tutorial!. <br /> <br />
 </p>
 <br />
