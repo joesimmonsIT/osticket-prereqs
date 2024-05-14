@@ -268,6 +268,7 @@ Check box for "CGI". <br /> <br />
 <p>
 Collapse Common HTTP Features. <br /> <br />
 Make sure all the boxes are checked. <br /> <br />
+Select "Ok".
 </p>
 <br />
 
