@@ -451,8 +451,8 @@ Select "php-7.3.8." and Click Download.
 <img src="https://i.imgur.com/yhHSZZQ.png"/>
 </p>
 <p>
-Go to File Explorer.
-Select "Downloads".
+Go to File Explorer. <br /> <br />
+Select "Downloads". <br /> <br />
 </p>
 <br />
 
