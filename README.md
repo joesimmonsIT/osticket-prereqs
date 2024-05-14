@@ -1000,15 +1000,15 @@ Select "Ok".
 <img src="https://i.imgur.com/7DCTvKX.png"/>
 </p>
 <p>
-Select "Ok".
+Refresh Browser. <br /> <br />
+Select "Continue". <br /> <br />  
 </p>
 <br />
 
 <img src="https://i.imgur.com/U4CVIpZ.png"/>
 </p>
 <p>
-Refresh Browser.
-Select "Continue".
+
 </p>
 <br />
 
