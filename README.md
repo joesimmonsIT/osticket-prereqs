@@ -1008,7 +1008,13 @@ Select "Continue". <br /> <br />
 <img src="https://i.imgur.com/U4CVIpZ.png"/>
 </p>
 <p>
-
+Helpdesk Name: Select desired Helpdesk Name, for this tutorial we will be using "Easy IT Solutions". <br /> <br />
+Default Email: Select desired default email, for this tutorial we will be using "support@easyit.com. <br /> <br />
+First Name: Enter your first name, "Joe". <br /> <br />
+Last Name: Enter your last name, "Simmons". <br /> <br />
+Username: Select desired username, for this tutorial we will be using "jsimmons_admin". <br /> <br />
+Password: Create a desired password. <br /> <br />
+Retype Password: Repeat the previous password entered. <br /> <br />
 </p>
 <br />
 
