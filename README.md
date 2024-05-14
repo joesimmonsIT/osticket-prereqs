@@ -1144,6 +1144,7 @@ osticket database has been successfully created.
 My SQL Database: osticket. <br /> <br />
 My SQL Username: root. <br /> <br />
 My SQL Password: Password we created previously in HeidiSQL. <br /> <br />
+Click "Install Now". <br /> <br />
 </p>
 <br />
 
