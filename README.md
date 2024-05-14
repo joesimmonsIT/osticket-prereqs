@@ -886,10 +886,10 @@ Enable all extensions.
 <img src="https://i.imgur.com/VqC4rRa.png"/>
 </p>
 <p>
-Go back to File Explorer.
-Open "osticket" folder.
-Select "include".
-Select "ost-sampleconfig.php".
+Go back to File Explorer. <br /> <br />
+Open "osticket" folder. <br /> <br />
+Select "include". <br /> <br />
+Select "ost-sampleconfig.php". <br /> <br />
 </p>
 <br />
 
