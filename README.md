@@ -469,7 +469,7 @@ Right Click, and Select "Extract All". <br /> <br />
 <img src="https://i.imgur.com/Bq2z6fX.png"/>
 </p>
 <p>
-Click Browse to select new destination to have the files extracted.
+Click "Browse" to select new destination to have the files extracted.
 </p>
 <br />
 
