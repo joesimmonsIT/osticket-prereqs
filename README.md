@@ -43,7 +43,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/SIGcx5L.png"/>
 </p>
 <p>
-Go to Azure Portal: Portal.Azure.com
+Go to Azure Portal: "Portal.Azure.com".
 </p>
 <br />
 
@@ -70,8 +70,8 @@ Select "Create" in the middle of the page.
 <p>
 Subscription: Select the desired subscription, if you have more than one Azure subscription. <br /> <br />
 If you only have one subscription skip this step and move on to the next step. <br /> <br />
-Resource group: Select the desired name of the resource group, for this tutortial we will be using "RGosTicket". <br /> <br />
-Region: Select the desired Region, for this tutortial we will be using (US) East US. <br /> <br />
+Resource group: Select the desired name of the resource group, for this tutorial we will be using "RGosTicket". <br /> <br />
+Region: Select the desired Region, for this tutorial we will be using (US) East US. <br /> <br />
 Select "Review + create" to proceed with creating the resource group. <br /> <br />
 </p>
 <br />
