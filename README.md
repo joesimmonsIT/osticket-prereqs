@@ -121,7 +121,7 @@ Subscription: Select desired subscription if you have more than one Azure subscr
 If you only have one subscription skip this step and move on to the next step. <br /> <br />
 Resource group: Select desired resource group, for this tutorial we will be using "RGosTicket". <br /> <br />
 Virtual machine name: Select desired virtual machine name, for this tutorial we will be using "VM-osticket". <br /> <br />
-Region: Select desired region, for this tutortial we will be using "(US) East US". <br /> <br />
+Region: Select desired region, for this tutorial we will be using "(US) East US". <br /> <br />
 Availability Zone: Select the desired zone, for this tutorial we will be using "Zone 2". <br /> <br />
 </p>
 <br />
@@ -184,7 +184,7 @@ The deployment (creation) of the virtual machine is completed.
 <img src="https://i.imgur.com/wjZwQyw.png"/>
 </p>
 <p>
-Go to the Portal: Portal.Azure.com. <br /> <br />
+Go to the Portal: "Portal.Azure.com". <br /> <br />
 Type "Virtual Machines" in the search box. <br /> <br />
 Select "Virtual machines" from the search results. <br /> <br />
 Select "VM-osticket". <br /> <br />
@@ -207,7 +207,7 @@ Press Connect. <br /> <br />
 </p>
 <p>
 Once connected to Remote Desktop Connection, go to the Windows Pane. <br /> <br />
-In the search bar type "run" and Press Enter. <br /> <br />
+In the search bar type "run" and Press "Enter". <br /> <br />
 </p>
 <br />
 
@@ -248,7 +248,7 @@ Check the box for "Internet Information Services".
 </p>
 <p>
 Collapse Internet Information Services. <br /> <br />
-Check box for World Wide Web Services. <br /> <br />
+Check box for "World Wide Web Services". <br /> <br />
 Collapse World Wide Web Services. <br /> <br />
 </p>
 <br />
@@ -257,7 +257,7 @@ Collapse World Wide Web Services. <br /> <br />
 <img src="https://i.imgur.com/vvTAejw.png"/>
 </p>
 <p>
-Check box for Application Development Features. <br /> <br />
+Check box for "Application Development Features". <br /> <br />
 Check box for "CGI". <br /> <br />
 </p>
 <br />
@@ -295,7 +295,7 @@ Type "127.0.0.1". <br /> <br />
 <img src="https://i.imgur.com/SckDSBQ.png"/>
 </p>
 <p>
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Internet Information Services image will appear this means it is ready for the prerequisites to be installed to be fully functional. <br /> <br />
 </p>
 <br />
