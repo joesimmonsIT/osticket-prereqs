@@ -755,7 +755,7 @@ This will enable the recent PHP Manage updates we just completed. <br /> <br />
 <img src="https://i.imgur.com/6dHh5sQ.png"/>
 </p>
 <p>
-Select "osTicket" and Click Download.
+Select "osTicket" and Click "Download".
 </p>
 <br />
 
@@ -789,7 +789,7 @@ Go to File and select "Open new window".
 </p>
 <p>
 Top Window: Select "osTicket" from Downloads Folder. Select "upload". <br /> <br />
-Bottom Window: Select This PC, Windows (C:), inetpub, wwwroot. <br /> <br />
+Bottom Window: Select "This PC, Windows (C:), inetpub, wwwroot". <br /> <br />
 Drag "upload" to "root" folder to copy files. <br /> <br />
 </p>
 <br />
@@ -1141,8 +1141,8 @@ osticket database has been successfully created.
 <img src="https://i.imgur.com/p3NAxPE.png"/>
 </p>
 <p>
-My SQL Database: osticket. <br /> <br />
-My SQL Username: root. <br /> <br />
+My SQL Database: "osticket". <br /> <br />
+My SQL Username: "root". <br /> <br />
 My SQL Password: Password we created previously in HeidiSQL. <br /> <br />
 Click "Install Now". <br /> <br />
 </p>
